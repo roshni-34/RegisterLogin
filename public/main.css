@@ -1,0 +1,17 @@
+.formSection{
+    max-width: 367px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    border-top: 4px solid #1284ae;
+    border-bottom: 4px solid #1284ae;
+}
+.formHead{
+    background-color: gainsboro;
+    height: 100vh;
+    padding: 50px;
+}
+label{
+    margin-bottom: 1px !important;
+}
